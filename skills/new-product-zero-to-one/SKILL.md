@@ -1,6 +1,6 @@
 ---
 name: new-product-zero-to-one
-description: Use when starting a new product, app, website, miniapp, major feature initiative, or 0-to-1 build where product, design, architecture, engineering, testing, release, and docs must not be skipped.
+description: Use when starting a new product, app, website, miniapp, major feature initiative, or 0-to-1 build where product, design, architecture, engineering, testing, release, and docs must not be skipped. Also use for Chinese requests like "从0到1", "新产品启动", "开始一个新项目", or "按完整流程推进".
 ---
 
 # New Product Zero To One
@@ -8,6 +8,8 @@ description: Use when starting a new product, app, website, miniapp, major featu
 ## Overview
 
 Use this as the operating system for starting a new product or substantial feature. It keeps the work gated: product clarity first, design system before UI churn, architecture before code, tests before implementation, and docs sync before handoff.
+
+中文说明：当用户要从 0 到 1 开始一个新产品、新 App、新网站、小程序或大型功能时，使用这个 skill。它负责把产品、用户流、设计、架构、工程规范、实施计划、测试、验证和文档同步串成一个不能随意跳过的流程。
 
 ## Hard Gates
 

@@ -1,5 +1,7 @@
 # New Product Zero To One Skill
 
+[中文说明](./README.zh-CN.md)
+
 `new-product-zero-to-one` is a Codex skill for starting new products, apps, websites, miniapps, and substantial feature initiatives with a repeatable, gated workflow.
 
 It helps prevent the common 0-to-1 failure pattern: jumping from a rough idea or prototype straight into code, then discovering missing product details, unstable UI direction, unclear architecture, weak tests, or stale documentation later.
