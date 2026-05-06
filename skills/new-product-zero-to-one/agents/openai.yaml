@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Product Zero To One"
+  short_description: "Start new products with gated docs, plans, tests, and review."
+  default_prompt: "Start a new product using the complete zero-to-one workflow."
